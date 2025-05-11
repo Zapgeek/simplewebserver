@@ -60,7 +60,7 @@ content = """
         </style>
     </head>
     <body bgcolor="lightblue">
-        <h1 style="color:darkgreen;text-align: center">TCP/IP Protocols - 24005057</h1>
+        <h1 style="color:darkgreen;text-align: center"></h1>
         <table align="center" border="10" cellpadding="15" cellspacing="0" width=700>
             <tr">
                 <th style="color:blue">Layer</th>
